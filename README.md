@@ -149,7 +149,6 @@ O resumo gerado pode ser convertido em PDF e compartilhado a partir da tela de l
 
 O projeto possui uma documentação acadêmica separada nos arquivos:
 
-- [DOCUMENTACAO_TRABALHO.md](./DOCUMENTACAO_TRABALHO.md)
 - `DOCUMENTACAO_TRABALHO.pdf`
 
 ## Autora
